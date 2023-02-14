@@ -60,7 +60,7 @@ management:
       enabled: true
 
 server:
-  port: 2701
+  port: 2704
 
 applicant-orchestrator:
   allowed:
